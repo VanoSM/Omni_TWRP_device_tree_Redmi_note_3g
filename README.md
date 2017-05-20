@@ -4,7 +4,7 @@
 
 --> . build/envsetup.sh
 
---> lunch omni_minote-eng
+--> lunch omni_lcsh92_wet_jb9-eng
 
 --> make clean && make -j# recoveryimage
 
