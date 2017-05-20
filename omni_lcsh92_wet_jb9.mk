@@ -17,6 +17,6 @@
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-$(call inherit-product, device/xiaomi/minote/full_minote.mk)
+$(call inherit-product, device/xiaomi/lcsh92_wet_jb9/full_lcsh92_wet_jb9.mk)
 
-PRODUCT_NAME := omni_minote
+PRODUCT_NAME := omni_lcsh92_wet_jb9
