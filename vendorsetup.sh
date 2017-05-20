@@ -1,2 +1,2 @@
-add_lunch_combo omni_minote-eng
-add_lunch_combo omni_minote-userdebug
+add_lunch_combo omni_lcsh92_wet_jb9-eng
+add_lunch_combo omni_lcsh92_wet_jb9-userdebug
