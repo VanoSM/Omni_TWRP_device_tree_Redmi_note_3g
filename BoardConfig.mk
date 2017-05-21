@@ -95,7 +95,7 @@ ro.allow.mock.location=1 \
 persist.mtk.aee.aed=on \
 ro.debuggable=1 \
 persist.service.acm.enable=1 \
-persist.sys.usb.config=mass_storage,adb \
+persist.sys.usb.config=mtp,adb \
 ro.mount.fs=EXT4
 
 #PhilZ Touch build flags for MTK
